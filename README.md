@@ -4,6 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=emfree1&color=0e75b6&style=flat)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ruslanpelekh)
+[![Telegram Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://t.me/+380980099140)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=react&logoColor=white&color=41b883)](https://ruslan-portfolio.netlify.app)
 
 I'm a passionate Frontend Developer with 4+ years of experience building high-performance web applications that users love.
@@ -36,18 +37,12 @@ const techStack = {
 </div>
 
 
-## 🎯 My Focus
 
-I'm currently focused on:
-
-- Mastering React Server Components and Next.js App Router
-- Exploring Astro for content-focused websites
-- Optimizing frontend performance with modern techniques
-- Contributing to open source projects
 
 ## 📬 Get in Touch
 
 - LinkedIn: [ruslan-pelekh](https://www.linkedin.com/in/ruslanpelekh)
+- Telegram: [@RuslanPelekh](https://t.me/+380980099140)
 - Email: emfree20@gmail.com
 - Portfolio: [ruslan-portfolio.netlify.app](https://ruslan-portfolio.netlify.app)
 
