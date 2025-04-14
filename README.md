@@ -4,7 +4,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=emfree1&color=0e75b6&style=flat)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ruslanpelekh)
-[![Telegram Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://t.me/+380980099140)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://t.me/+380980099140)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=react&logoColor=white&color=41b883)](https://ruslan-portfolio.netlify.app)
 
 I'm a passionate Frontend Developer with 4+ years of experience building high-performance web applications that users love.
